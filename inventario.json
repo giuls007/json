@@ -1,0 +1,37 @@
+[
+  {
+    "codice": "P001",
+    "nome": "Laptop UltraSlim",
+    "categoria": "Elettronica",
+    "prezzo_unitario": 1200.00,
+    "quantita_disponibile": 15
+  },
+  {
+    "codice": "P002",
+    "nome": "Smartphone X",
+    "categoria": "Elettronica",
+    "prezzo_unitario": 750.50,
+    "quantita_disponibile": 30
+  },
+  {
+    "codice": "L001",
+    "nome": "Divina Commedia",
+    "categoria": "Libri",
+    "prezzo_unitario": 15.00,
+    "quantita_disponibile": 50
+  },
+  {
+    "codice": "L002",
+    "nome": "Python Crash Course",
+    "categoria": "Libri",
+    "prezzo_unitario": 35.70,
+    "quantita_disponibile": 25
+  },
+  {
+    "codice": "A001",
+    "nome": "T-shirt Logo",
+    "categoria": "Abbigliamento",
+    "prezzo_unitario": 20.00,
+    "quantita_disponibile": 0
+  }
+]
