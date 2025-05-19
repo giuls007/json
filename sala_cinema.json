@@ -1,0 +1,18 @@
+{
+  "nome_sala": "Sala Alpha",
+  "dimensioni": {
+    "righe": 5,
+    "colonne": 8
+  },
+  "posti_occupati": [
+    {"riga": 0, "colonna": 0, "simbolo": "X"},
+    {"riga": 2, "colonna": 3, "simbolo": "X"},
+    {"riga": 2, "colonna": 4, "simbolo": "X"},
+    {"riga": 4, "colonna": 7, "simbolo": "X"}
+  ],
+  "posti_premium": [
+    {"riga": 0, "colonna": 3, "simbolo": "P"},
+    {"riga": 0, "colonna": 4, "simbolo": "P"}
+  ],
+  "simbolo_libero": "_"
+}
