@@ -1,0 +1,32 @@
+[
+  {
+    "id": "S101",
+    "nome": "Mario",
+    "cognome": "Rossi",
+    "voti": {
+      "Matematica": [8, 7, 9],
+      "Italiano": [6, 7, 7],
+      "Storia": [8, 8, 7]
+    }
+  },
+  {
+    "id": "S102",
+    "nome": "Luisa",
+    "cognome": "Bianchi",
+    "voti": {
+      "Matematica": [9, 9, 10],
+      "Italiano": [7, 8, 8],
+      "Storia": [9, 10, 9]
+    }
+  },
+  {
+    "id": "S103",
+    "nome": "Giovanni",
+    "cognome": "Verdi",
+    "voti": {
+      "Matematica": [6, 5],
+      "Italiano": [5, 6, 7],
+      "Storia": [7, 7]
+    }
+  }
+]
